@@ -1,2 +1,2 @@
 # html-one
-This is simple layout of html5.
+https://maidulislam97.github.io/html-one/
